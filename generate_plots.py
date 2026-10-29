@@ -56,3 +56,4 @@ os.makedirs('images', exist_ok=True)
 plt.tight_layout()
 plt.savefig('images/paraboloid_q_identity.png', dpi=300)
 print('Successfully saved images/paraboloid_q_identity.png')
+
